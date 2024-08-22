@@ -1,0 +1,14 @@
+{
+    "Posts": [
+        {
+            "Title": "Article 1",
+            "Desc": "This is the first",
+            "IMG": "https://picsum.photos/400/300?random=1"
+        },
+        {
+            "Title": "Article 2",
+            "Desc": "This is the second",
+            "IMG": "https://picsum.photos/400/300?random=1"
+        }
+    ]
+}
